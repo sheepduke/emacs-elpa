@@ -1,0 +1,2 @@
+;;; Generated package description from consult-projectile.el  -*- no-byte-compile: t -*-
+(define-package "consult-projectile" "20220617.1042" "Consult integration for projectile" '((emacs "25.1") (consult "0.12") (projectile "2.5.0")) :commit "5ef1ada3be767ea766255801050210f5d796deec" :authors '(("Marco Pawłowski")) :maintainer '("Marco Pawłowski") :keywords '("convenience") :url "https://gitlab.com/OlMon/consult-projectile")

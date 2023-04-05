@@ -1,0 +1,2 @@
+;;; Generated package description from consult-company.el  -*- no-byte-compile: t -*-
+(define-package "consult-company" "20230403.1911" "Consult frontend for company" '((emacs "27.1") (company "0.9") (consult "0.9")) :commit "24559103a77210c0178b95a842ad13b555be3d43" :authors '(("mohsin kaleem" . "mohkale@kisara.moe")) :maintainer '("mohsin kaleem" . "mohkale@kisara.moe") :url "https://github.com/mohkale/consult-company")
